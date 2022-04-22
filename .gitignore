@@ -1,12 +1,12 @@
-
+﻿
 tmp/
 
-
+#все файлы с
 *_old
 *_backup
 
-
+#все файлы 
 Thumbs.db 
 
-
+#и
 .DS_Store
